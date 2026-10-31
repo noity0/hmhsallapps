@@ -1,0 +1,6 @@
+{
+  "name": "My Web Hub - Personal Sites Showcase",
+  "description": "A modern, curated showcase of all my personal sites and projects with automated live homepage previews, one-tap access, and secure PIN-protected link management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

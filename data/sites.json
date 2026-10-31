@@ -1,0 +1,195 @@
+[
+  {
+    "id": "site_lastai",
+    "url": "https://lastai.ai.studio",
+    "title": "HMHS AI — Autonomous Multimodal AI Platform",
+    "description": "Next-generation autonomous multimodal AI platform engineered with intelligent routing, live web search grounding, interactive sandbox code execution, deep multi-step reasoning, image generation, and universal file export.",
+    "category": "AI & Autonomous",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=lastai.ai.studio&sz=128",
+    "previewImageUrl": "/api/screenshots/cloud_lastai_ai_studio_1792681317804.png",
+    "createdAt": 1792678349388,
+    "visitCount": 1420,
+    "displayOrder": 0,
+    "badge": "🌟 Flagship Autonomous AI",
+    "rating": 4.9,
+    "usersCount": "15k+ Sessions",
+    "tags": [
+      "Multimodal AI",
+      "Autonomous Agent",
+      "Code Sandbox",
+      "Search Grounding"
+    ],
+    "techStack": [
+      "Gemini 2.5/3 Pro",
+      "Real-Time Web Search",
+      "Sandbox Execution",
+      "Canvas AI"
+    ],
+    "features": [
+      "Live web search grounding with factual citations & live sources",
+      "Interactive sandbox code execution with real-time UI previews",
+      "Autonomous multi-step planning and universal document builder"
+    ]
+  },
+  {
+    "id": "site_hmhsmap",
+    "url": "https://hmhsmap.edgeone.dev",
+    "title": "HMHS Map — Real-Time GPS & Live Navigation in Pakistan",
+    "description": "The premier Pakistan-tailored navigation suite featuring street-level gully accuracy, real-time traffic alerts, 3D motorways, turn-by-turn voice guidance, and the signature Best Route Ever through lush greenery and scenic views.",
+    "category": "Maps & GPS",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=hmhsmap.edgeone.dev&sz=128",
+    "previewImageUrl": "/api/screenshots/cloud_hmhsmap_edgeone_dev_1793434169069.png",
+    "createdAt": 1793434200000,
+    "visitCount": 2840,
+    "displayOrder": 1,
+    "badge": "⚡ Real-Time GPS & Traffic",
+    "rating": 4.9,
+    "usersCount": "28k+ Routes Plotted",
+    "tags": [
+      "Pakistan Navigation",
+      "Live Traffic",
+      "Scenic Green Routes",
+      "Voice GPS"
+    ],
+    "techStack": [
+      "Leaflet GIS",
+      "Live GPS Tracking",
+      "Pakistan Gully Engine",
+      "Scenic Route AI"
+    ],
+    "features": [
+      "Best Route Ever algorithm prioritizing lush greenery & scenic motorways",
+      "Turn-by-turn voice guidance with real-time speed & lane notifications",
+      "Street-level gully accuracy for Karachi, Lahore, Islamabad, & Rawalpindi"
+    ]
+  },
+  {
+    "id": "site_hmhselement",
+    "url": "https://hmhselement.edgeone.dev",
+    "title": "HMHS Element Interactive Lab",
+    "description": "Advanced computational chemistry lab simulating theoretical chemical compound NLiNa(H)4(O)2 with stoichiometric reaction stages, dynamic pH calculus, molecular state transformations, and thermodynamic enthalpy heat maps.",
+    "category": "Science & Lab",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=hmhselement.edgeone.dev&sz=128",
+    "previewImageUrl": "/api/screenshots/cloud_hmhselement_edgeone_dev_1793434183491.png",
+    "createdAt": 1793434210000,
+    "visitCount": 910,
+    "displayOrder": 2,
+    "badge": "🔬 Chemical Reaction Simulator",
+    "rating": 4.8,
+    "usersCount": "8k+ Experiments",
+    "tags": [
+      "Chemistry Lab",
+      "Reaction Simulator",
+      "pH Calculus",
+      "Atomic Physics"
+    ],
+    "techStack": [
+      "Stoichiometry Engine",
+      "Dynamic pH Curves",
+      "Atomic Solver",
+      "Canvas Chemistry"
+    ],
+    "features": [
+      "Interactive reaction kinetics & thermodynamic enthalpy calculation",
+      "Dynamic titration curve simulator & buffer equilibrium solver",
+      "Atomic testing matrix with particle-level phase transition visualizer"
+    ]
+  },
+  {
+    "id": "site_pianoguitar",
+    "url": "https://piano-guitar.edgeone.dev",
+    "title": "3D Piano & Guitar Studio",
+    "description": "Immersive 3D virtual instrument studio featuring high-fidelity sampled Grand Piano and Acoustic/Electric Guitar with computer keyboard A–Z bindings, dynamic chord strumming, fretboard visualizer, tabs recorder, and custom synthesizers.",
+    "category": "Music & Audio",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=piano-guitar.edgeone.dev&sz=128",
+    "previewImageUrl": "/api/screenshots/cloud_piano_guitar_edgeone_dev_1793434198914.png",
+    "createdAt": 1793434220000,
+    "visitCount": 1950,
+    "displayOrder": 3,
+    "badge": "🎵 3D WebGL Studio",
+    "rating": 5,
+    "usersCount": "19k+ Musicians",
+    "tags": [
+      "3D Instruments",
+      "Acoustic Guitar",
+      "Grand Piano",
+      "Keyboard Strumming"
+    ],
+    "techStack": [
+      "Three.js WebGL",
+      "Web Audio Synth",
+      "Polyphonic Sampler",
+      "MIDI Keyboard"
+    ],
+    "features": [
+      "Instant playability via computer keyboard keys (A–Z) or touch chord bar",
+      "Realistic polyphonic sound synthesis, sustain pedals & reverb impulse",
+      "Interactive guitar fretboard visualizer with automated tab playback"
+    ]
+  },
+  {
+    "id": "site_liveweather",
+    "url": "https://liveweather.edgeone.dev",
+    "title": "Live Weather Detector & Intelligence",
+    "description": "Precision atmospheric intelligence detector providing hyper-local GPS forecasts, animated live Doppler weather radar, Air Quality Index (AQI) particulate breakdown, storm trackers, UV indexes, and smart AI clothing & travel advisories.",
+    "category": "Weather & Radar",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=liveweather.edgeone.dev&sz=128",
+    "previewImageUrl": "/api/screenshots/cloud_liveweather_edgeone_dev_1793434206927.png",
+    "createdAt": 1793434230000,
+    "visitCount": 1240,
+    "displayOrder": 4,
+    "badge": "⛅ Live Doppler Radar & AQI",
+    "rating": 4.9,
+    "usersCount": "12k+ Forecasts",
+    "tags": [
+      "Live Doppler Radar",
+      "Air Quality AQI",
+      "Storm Tracker",
+      "AI Weather Brief"
+    ],
+    "techStack": [
+      "Doppler Radar GIS",
+      "Real-Time AQI Index",
+      "Live Geolocation",
+      "AI Weather Brief"
+    ],
+    "features": [
+      "Hyper-local temperature, humidity, wind gusts & barometric pressure",
+      "Interactive Doppler radar map with animated precipitation layers",
+      "Real-time Air Quality particulate monitor & UV health recommendations"
+    ]
+  },
+  {
+    "id": "site_hmhslover",
+    "url": "https://hmhslovesingle.edgeone.app/",
+    "title": "HMHS Lover — Halal AI Companion & Empathy Sanctuary",
+    "description": "Interactive halal AI companion and emotional empathy sanctuary offering pious mood reflections, heartfelt voice notes, personalized daily Duas, love diary notes, and soothing spiritual companionship.",
+    "category": "AI & Lifestyle",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=hmhslovesingle.edgeone.app&sz=128",
+    "previewImageUrl": "/api/screenshots/cloud_hmhslovesingle_edgeone_app_1793435343702.png",
+    "createdAt": 1793435343702,
+    "visitCount": 2180,
+    "displayOrder": 5,
+    "badge": "💖 Halal AI Companion & Sanctuary",
+    "rating": 4.9,
+    "usersCount": "22k+ Heartfelt Sessions",
+    "tags": [
+      "Halal Companion",
+      "AI Empathy",
+      "Pious Reflection",
+      "Love Notes",
+      "Spiritual Sanctuary"
+    ],
+    "techStack": [
+      "Empathy Engine",
+      "Voice Note Synth",
+      "Mood Reflection AI",
+      "Love Diary Matrix"
+    ],
+    "features": [
+      "Multi-persona companion interaction with Pious, Caring & Playful personalities",
+      "Emotional empathy reflections, personalized Duas & simulated heartfelt voice calls",
+      "Interactive love diary, halal romantic moments & spiritually uplifting bonding"
+    ]
+  }
+]
